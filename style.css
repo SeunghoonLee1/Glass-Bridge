@@ -1,0 +1,12 @@
+#gameover{
+    display: none;
+}
+
+#timediv{
+    display: none;
+}
+
+@font-face{
+    font-family: 'Press Start 2P';
+    src: url(gamefont/PressStart2P-Regular.ttf);
+}
